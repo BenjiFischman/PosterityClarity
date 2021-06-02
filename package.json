@@ -1,0 +1,10 @@
+{
+  "name": "Facebook_Scraper",
+  "version": "1.0.0",
+  "description": "Scrapes profile information from facebook group members",
+  "author": "Benji Fischman",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}

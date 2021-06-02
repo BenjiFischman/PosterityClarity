@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "Facebook Scraper",
+  "version": "1.0",
+
+"browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+
+  "background": {
+    "scripts": ["jquery.min.js", "background.js"]
+  },
+
+"content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+
+
+
+  
+  "permissions": ["activeTab", "tabs"]
+
+}
+
+
