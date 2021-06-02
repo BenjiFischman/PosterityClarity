@@ -22,8 +22,10 @@ I am ecstatic to see what happens next,
 -BF
 
 P.S. My middle name is Rice, so to be concise, I suffice a precise optimist.
+
 Disclaimer: DISTRIBUTED AS IS FOR ARTIFACT PURPOSES ONLY. CONSENT OF THE CREATOR TO BUILD ON THIS SOFTWARE IS PROHIBITED (I.E., NO LISCENSE)
-June 3rd (+/-)2 2021
+
+**June 3rd (+/-)2 2021**
 # Facebook Scraper
 ### A web scraper for Facebook utilizing Node.js
 <br><br>
@@ -43,9 +45,7 @@ fetch the titles from a Google Scholar results page and post them to
 a local webserver. The webserver will then write the titles to a file.
 <br><br>
 #### Installation
-<ol>
-	<li>You'll need to be running linux with both npm and nodejs
-	installed. Both are available using <code>apt-get</code>.
+<ol><li>You'll need to be running linux with both npm and nodejs installed. Both are available using <code>apt-get</code>.
 	You will also need Google Chrome.</li>
 	<li>Clone this repo to wherever. That path will be referred to as
 	"scraper_path" in the following steps.</li>
