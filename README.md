@@ -21,7 +21,7 @@ I am ecstatic to see what happens next,
 P.S. My middle name is Rice, so to be concince, I suffice a precise optimist.
 
 
-*June 3rd 2021*
+*June 3rd (+/-2) 2021*
 
 # Facebook Scraper
 ### A web scraper for Facebook utilizing Node.js
