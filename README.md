@@ -22,7 +22,7 @@ I am ecstatic to see what happens next,
 -BF
 
 P.S. My middle name is Rice, so to be concise, I suffice a precise optimist.
-
+Disclaimer: DISTRIBUTED AS IS FOR ARTIFACT PURPOSES ONLY. CONSENT OF THE CREATOR TO BUILD ON THIS SOFTWARE IS PROHIBITED (I.E., NO LISCENSE)
 June 3rd (+/-)2 2021
 # Facebook Scraper
 ### A web scraper for Facebook utilizing Node.js
